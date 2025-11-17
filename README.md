@@ -139,3 +139,55 @@ CSV – dataset source
 Python (optional) – additional preprocessing/EDA
 
 GitHub – versioning & documentation
+
+📦 Repository Structure
+📁 HR-Analytics-PowerBI
+│── 📂 Dataset
+│     └── HR_Analytics.csv
+│── 📂 PowerBI_Dashboard
+│     └── HR_Analytics.pbix
+│── 📂 Screenshots
+│     └── dashboard_preview.png
+│── README.md
+
+
+📍 Key Insights
+
+Younger employees (18–25) have higher attrition.
+
+Sales and R&D departments show the highest turnover.
+
+Employees with low job satisfaction and poor work-life balance leave more often.
+
+Frequent travelers show a much higher attrition rate.
+
+Higher monthly income correlates with better retention.
+
+💼 Use Cases
+
+This dashboard can be used for:
+
+HR decision-making
+
+Workforce planning
+
+Attrition prediction inputs
+
+Employee satisfaction analysis
+
+HR reporting and presentations
+
+🤝 Contributing
+
+Pull requests are welcome!
+If you want to improve visualizations or add ML modeling, feel free to contribute.
+
+📧 Contact
+
+For queries or collaboration opportunities:
+
+Khadija Jumani
+Data Analyst | BI Analyst | Data Engineer | Web Developer
+Email: Khadijajumani0208@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/khadija-jumani-728872305/
